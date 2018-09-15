@@ -9,3 +9,5 @@ history as well). I'l intergrate either MySQL or Mongo for housing of the data.
 The theme's front end is built with simple HTML/CSS. 
 
 More to come
+
+... I also need to work on my commit messages, turns out I can't edit them after they are in GH.
