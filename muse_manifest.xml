@@ -1,0 +1,123 @@
+<manifest alg="2" build="11" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1454001798003">
+  <folder name="css">
+    <file name="site_global.css" crc="518024997"/>
+    <file name="index.css" crc="3913587636" ref="index"/>
+    <file name="iefonts_index.css" crc="499282594" ref="index"/>
+    <file name="sample-news-page.css" crc="4085451077" ref="sample-news-page"/>
+    <file name="iefonts_sample-news-page.css" crc="4016320026" ref="sample-news-page"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3880902115" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="museutils.js" crc="521960461" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="jquery.scrolleffects.js" crc="4038615763" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index"/>
+    <file name="jquery.watch.js" crc="56779320" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="jquery.musemenu.js" crc="397543671" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="webpro.js" crc="220831917" ref="phone>index:phone>sample-news-page:tablet>index:index"/>
+    <file name="musewpdisclosure.js" crc="4110183178" ref="phone>index:phone>sample-news-page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="349594875" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="musewpslideshow.js" crc="224651946" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="276313855" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="325405309" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="218543696" ref="phone>index:tablet>index:index"/>
+    <file name="form_throttle.php" crc="3988545917" ref="phone>index:tablet>index:index"/>
+    <file name="form_process.php" crc="4264751530" ref="phone>index:tablet>index:index"/>
+    <file name="form-u4192.php" crc="97886925" ref="phone>index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>sample-news-page:tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="museredirect.js" crc="4117159434" ref="tablet>index:tablet>sample-news-page:index:sample-news-page"/>
+    <file name="form-u3042.php" crc="498294905" ref="tablet>index"/>
+    <file name="form-u2042.php" crc="3845929538" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="menu1.svg" crc="4135297152" ref="phone>index:phone>sample-news-page"/>
+    <file name="menu1_poster_u3762.png" crc="4178024588" ref="phone>index:phone>sample-news-page"/>
+    <file name="slider2.jpg" crc="152657463" ref="phone>index:tablet>index:index"/>
+    <file name="gallery01-crop-u3967.jpg" crc="4095260407" ref="phone>index"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="gallery02-crop-u3959.jpg" crc="4095260407" ref="phone>index"/>
+    <file name="gallery03-crop-u3961.jpg" crc="4095260407" ref="phone>index"/>
+    <file name="gallery04-crop-u3963.jpg" crc="4095260407" ref="phone>index"/>
+    <file name="gallery05-crop-u3965.jpg" crc="4095260407" ref="phone>index"/>
+    <file name="gallery06-crop-u3957.jpg" crc="4095260407" ref="phone>index"/>
+    <file name="gallery01178x133.jpg" crc="3949551044" ref="phone>index"/>
+    <file name="gallery02178x133.jpg" crc="3949551044" ref="phone>index"/>
+    <file name="gallery03178x133.jpg" crc="3949551044" ref="phone>index"/>
+    <file name="gallery04178x133.jpg" crc="3949551044" ref="phone>index"/>
+    <file name="gallery05178x133.jpg" crc="3949551044" ref="phone>index"/>
+    <file name="gallery06178x133.jpg" crc="3949551044" ref="phone>index"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="background2.jpg" crc="383679036" ref="phone>index:tablet>index:index"/>
+    <file name="about1.jpg" crc="4236658086" ref="phone>index:tablet>index:index"/>
+    <file name="arches.jpg" crc="341503549" ref="phone>index:tablet>index:index"/>
+    <file name="service1.jpg" crc="26012085" ref="phone>index:tablet>index:index"/>
+    <file name="service3.jpg" crc="26012085" ref="phone>index:tablet>index:index"/>
+    <file name="service2.jpg" crc="26012085" ref="phone>index:tablet>index:index"/>
+    <file name="team1.jpg" crc="262323023" ref="phone>index:tablet>index:index"/>
+    <file name="team2.jpg" crc="262323023" ref="phone>index:tablet>index:index"/>
+    <file name="team3.jpg" crc="262323023" ref="phone>index:tablet>index:index"/>
+    <file name="team4.jpg" crc="262323023" ref="phone>index:tablet>index:index"/>
+    <file name="argyle.jpg" crc="4061649135" ref="phone>index:tablet>index:index"/>
+    <file name="news1.jpg" crc="28957289" ref="phone>index:tablet>index:index"/>
+    <file name="news2.jpg" crc="28957289" ref="phone>index:tablet>index:index"/>
+    <file name="news3.jpg" crc="28957289" ref="phone>index:tablet>index:index"/>
+    <file name="u4208-17.png" crc="4230464528" ref="phone>index"/>
+    <file name="u4208-17-r.png" crc="3843440909" ref="phone>index"/>
+    <file name="u4208-17-m.png" crc="3843440909" ref="phone>index"/>
+    <file name="u4208-17-fs.png" crc="4230464528" ref="phone>index"/>
+    <file name="new01-u4621-fr.jpg" crc="204868100" ref="phone>sample-news-page"/>
+    <file name="background1.jpg" crc="101500351" ref="tablet>index:index"/>
+    <file name="gallery01.jpg" crc="322293282" ref="tablet>index:index"/>
+    <file name="gallery02.jpg" crc="3765283358" ref="tablet>index:index"/>
+    <file name="gallery03.jpg" crc="4005335967" ref="tablet>index:index"/>
+    <file name="gallery04.jpg" crc="486262842" ref="tablet>index:index"/>
+    <file name="gallery05.jpg" crc="3985657774" ref="tablet>index:index"/>
+    <file name="gallery06.jpg" crc="534587982" ref="tablet>index:index"/>
+    <file name="gallery01346x260.jpg" crc="35218511" ref="tablet>index"/>
+    <file name="gallery02346x260.jpg" crc="35218511" ref="tablet>index"/>
+    <file name="gallery03346x260.jpg" crc="35218511" ref="tablet>index"/>
+    <file name="gallery04346x260.jpg" crc="35218511" ref="tablet>index"/>
+    <file name="gallery05346x260.jpg" crc="35218511" ref="tablet>index"/>
+    <file name="gallery06346x260.jpg" crc="35218511" ref="tablet>index"/>
+    <file name="u3057-17.png" crc="4230464528" ref="tablet>index"/>
+    <file name="u3057-17-r.png" crc="3843440909" ref="tablet>index"/>
+    <file name="u3057-17-m.png" crc="3843440909" ref="tablet>index"/>
+    <file name="u3057-17-fs.png" crc="4230464528" ref="tablet>index"/>
+    <file name="new01.jpg" crc="4082943203" ref="tablet>sample-news-page:sample-news-page"/>
+    <file name="gallery01402x301.jpg" crc="317131084" ref="index"/>
+    <file name="gallery02402x301.jpg" crc="317131084" ref="index"/>
+    <file name="gallery03402x301.jpg" crc="317131084" ref="index"/>
+    <file name="gallery04402x301.jpg" crc="317131084" ref="index"/>
+    <file name="gallery05402x301.jpg" crc="317131084" ref="index"/>
+    <file name="gallery06402x301.jpg" crc="317131084" ref="index"/>
+    <file name="u2058-17.png" crc="4230464528" ref="index"/>
+    <file name="u2058-17-r.png" crc="3843440909" ref="index"/>
+    <file name="u2058-17-m.png" crc="3843440909" ref="index"/>
+    <file name="u2058-17-fs.png" crc="4230464528" ref="index"/>
+    <file name="popular post1.jpg" crc="265156102" ref="sample-news-page"/>
+    <file name="popular post2.jpg" crc="265156102" ref="sample-news-page"/>
+    <file name="popular post3.jpg" crc="265156102" ref="sample-news-page"/>
+    <file name="about author1.jpg" crc="491540236" ref="sample-news-page"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="sample-news-page.css" crc="4061217235" ref="tablet>sample-news-page"/>
+      <file name="iefonts_sample-news-page.css" crc="4053739775" ref="tablet>sample-news-page"/>
+      <file name="index.css" crc="4150584813" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="268396278" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4250681310" mt="1454001782410" redirect="true"/>
+    <file name="sample-news-page.html" crc="531873430" mt="1454001164953" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="sample-news-page.css" crc="81344456" ref="phone>sample-news-page"/>
+      <file name="iefonts_sample-news-page.css" crc="3972749036" ref="phone>sample-news-page"/>
+      <file name="index.css" crc="340670211" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="40353433" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4135390417" mt="1454001782416" redirect="true"/>
+    <file name="sample-news-page.html" crc="356351324" mt="1454001164959" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="4007893754" mt="1454001782421" redirect="true"/>
+  <file name="sample-news-page.html" crc="241498818" mt="1454001781340" redirect="true"/>
+</manifest>
